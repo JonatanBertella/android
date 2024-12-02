@@ -25,7 +25,7 @@
 
 header{
     background-image: linear-gradient(to top, #063d1e, #c5ebd691 );
-    height: 170px;
+    height: 200px;
     text-align: center;
     }
 
@@ -47,6 +47,7 @@ header p{
     max-width: 500px;
     margin: auto;
     padding-top: 15px;
+    
    }
 
    nav{
